@@ -1,0 +1,133 @@
+[
+  {
+    "id":"1",
+    "name":"Kashmir Files",
+    "release_year":"2003",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2019/08/The-Kashmir-Files-2-306x393.jpg"
+  },
+  {
+    "id":"2",
+    "name":"Baahubali",
+    "release_year":"2015",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2017/03/Bahubali-2-The-Conclusion-306x393.jpg"
+  },
+  {
+    "id":"3",
+    "name":"Padmaavat",
+    "release_year":"2010",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2016/04/Padmaavat-1-306x393.jpg"
+  },
+  {
+    "id":"4",
+    "name":"Drishyam 2",
+    "release_year":"2003",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2021/02/Drishyam-2-9-1.jpg_620-1-306x393.jpg"
+  },
+  {
+    "id":"5",
+    "name":"Pathaan",
+    "release_year":"2006",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2020/08/Pathaan-10-1-306x393.jpg"
+  },
+  {
+    "id":"6",
+    "name":"Race 3",
+    "release_year":"2010",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Race-3-16-306x393.jpg"
+  },
+  {
+    "id":"7",
+    "name":"Krrish",
+    "release_year":"2008",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/74218192-306x393.jpg"
+  },
+  {
+    "id":"8",
+    "name":"Rrr",
+    "release_year":"2017",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-2022-306x393.jpeg"
+  },
+  {
+    "id":"9",
+    "name":"Kabir Singh",
+    "release_year":"2018",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2018/04/Kabir-Singh-1-306x393.jpg"
+  },
+  {
+    "id":"10",
+    "name":"Dhoom 3",
+    "release_year":"2019",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://media5.bollywoodhungama.in/wp-content/uploads/2016/03/74218191-306x393.jpg"
+  },{
+    "id":"11",
+    "name":"Sultan",
+    "release_year":"2013",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://media5.bollywoodhungama.in/wp-content/uploads/2016/03/445918987-306x393.jpg"
+  },{
+    "id":"12",
+    "name":"War",
+    "release_year":"2021",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://media5.bollywoodhungama.in/wp-content/uploads/2017/09/War-6-306x393.jpg"
+  },{
+    "id":"13",
+    "name":"Sanju",
+    "release_year":"2014",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://media5.bollywoodhungama.in/wp-content/uploads/2016/12/Sanju-3-306x393.jpg"
+  },{
+    "id":"14",
+    "name":"Pk",
+    "release_year":"2006",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/89649841-306x393.jpg"
+  },{
+    "id":"15",
+    "name":"Dangal",
+    "release_year":"2004",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/Dangal-1-306x393.jpg"
+  },{
+    "id":"16",
+    "name":"Housefull 4",
+    "release_year":"2022",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2019/10/housefull4567-306x393.jpg"
+  },{
+    "id":"17",
+    "name":"Good Newws",
+    "release_year":"2005",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2018/07/Good-Newwz-3-306x393.jpg"
+  },{
+    "id":"18",
+    "name":"Super 30",
+    "release_year":"2012",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat5.bollywoodhungama.in/wp-content/uploads/2017/09/Golmaal-Again-2-306x393.jpg"
+  },{
+    "id":"19",
+    "name":"Dilwale",
+    "release_year":"2021",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/435950187-306x393.jpg"
+  },{
+    "id":"20",
+    "name":"Baaghi 2",
+    "release_year":"2017",
+    "description":"This Movie is Family Movie.it win Oskar award.",
+    "image":"https://media5.bollywoodhungama.in/wp-content/uploads/2018/03/Baaghi-2-embarks-on-good-advance-booking-306x393.jpg"
+  }
+
+]

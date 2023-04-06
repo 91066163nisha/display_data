@@ -1,0 +1,76 @@
+.card {
+  width: 15%;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: azure;
+  box-shadow: 1px 3px 3px 2px #b9b1b1
+}
+
+.main_box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  color: rgb(26, 113, 116);
+  font-size: 30px;
+}
+
+.data {
+  color: brown;
+  margin: -2px 0;
+}
+
+.detail {
+  color: #870731;
+}
+
+.search_name {
+  margin-right: 60px;
+  align-items: end;
+  width: 300px;
+  height: 35px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  color: rgb(26, 113, 116);
+  ;
+}
+
+.search_name:focus {
+  border: 2px solid #870731;
+}
+
+.search_box {
+  align-items: end;
+  width: 300px;
+  height: 35px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+}
+
+.search_box:focus {
+  border: 2px solid #870731;
+}
+
+.combo_box {
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 80px;
+}
+
+.input_name {
+  margin-right: 8px;
+  font-size: 20px;
+  color: #870731;
+  font-weight: 600;
+}
