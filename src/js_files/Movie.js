@@ -35,7 +35,6 @@ export default function Movie() {
     data.forEach((elem) => {
       const value = Object.values(elem);
       let index = value.indexOf(inputValue);
-      // console.log(value, "mamamam");
       if (index != -1) {
         newArr.push(elem);
       }
